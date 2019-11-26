@@ -1,0 +1,17 @@
+html {
+    background: #27a5cc;
+}
+
+.wrapper {
+    position: relative;
+    margin: auto;
+    margin-top: 8%;
+    border: 2px solid #333;
+    height: 600px;
+    width: 420px;
+}
+
+.head {
+    border-radius: 50%;
+    height
+}
